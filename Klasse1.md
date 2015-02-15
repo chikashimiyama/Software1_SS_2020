@@ -29,4 +29,4 @@
 ---
 ![](Klasse1/subtractiveLFO.png)
 ---
-![](Klasse1/subtractiveEnv.png)
+![](Klasse1/subtractive_Env.png)
