@@ -25,8 +25,8 @@
 ### Subtraktivesynthese
 ![](Klasse1/subtractive.png)
 ---
-![](klasse1/subtractiveSaw.png)
+![](Klasse1/subtractiveSaw.png)
 ---
-![](klasse1/subtractiveLFO.png)
+![](Klasse1/subtractiveLFO.png)
 ---
-![](klasse1/subtractiveEnv.png)
+![](Klasse1/subtractiveEnv.png)
