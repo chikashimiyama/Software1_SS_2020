@@ -1,8 +1,6 @@
 # Klasse1
 
-
 ## Waveformsynthese
-
 ---
 ![](Klasse1/waveform1.png)
 ---
