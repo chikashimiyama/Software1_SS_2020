@@ -15,8 +15,3 @@
 ---
 ![](Klasse3/6.png)
 ---
-![](Klasse3/7.png)
----
-![](Klasse3/8.png)
----
-![](Klasse3/9.png)
