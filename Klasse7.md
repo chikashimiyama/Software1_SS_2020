@@ -1,5 +1,13 @@
 # Klasse7
 
+### Optimisierung
+
+### mute~
+
+
+### poly~
+
+
 
 ![](Klasse7/1.png)
 ---

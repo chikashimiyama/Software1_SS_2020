@@ -1,8 +1,17 @@
 # Klasse2
 
+## Polyphonischer Synthesizer
+
+
+
+
+
+
+
+
+
 ## Modulationsynthese
 
----
 ### Ring Modulation
 ![](Klasse2/rm.png)
 ---
@@ -23,3 +32,16 @@
 ---
 ### Serial Multiple Mudulator Frequency Modulation
 ![](Klasse2/smmfm.png)
+
+
+## Waveshaping synthese
+
+
+
+
+
+
+
+## HA
+
+Programmieren Sie ein Waveshping Polyphonic Synthesizer

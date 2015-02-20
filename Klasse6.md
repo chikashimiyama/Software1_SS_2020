@@ -1,6 +1,6 @@
 # Klasse6
 
-
+### omnimax
 ![](Klasse6/1.png)
 ---
 ![](Klasse6/2.png)
