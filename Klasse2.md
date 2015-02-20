@@ -1,17 +1,25 @@
 # Klasse2
 
-## Pitch Shifter
+## Modulationsynthese
 
-
 ---
-![](Klasse2/1.png)
+### Ring Modulation
+![](Klasse2/rm.png)
 ---
-![](Klasse2/2.png)
+### Ring Modulation
+![](Klasse2/rm2.png)
 ---
-![](Klasse2/3.png)
+### Amplitude Modulation
+![](Klasse2/am.png)
 ---
-![](Klasse2/4.png)
+### Amplitude Modulation
+![](Klasse2/am2.png)
 ---
-![](Klasse2/5.png)
+### Frequency Modulation
+![](Klasse2/fm.png)
 ---
-![](Klasse2/6.png)
+### Parallel Multiple Modulator Frequency Modulation
+![](Klasse2/pmmfm.png)
+---
+### Serial Multiple Mudulator Frequency Modulation
+![](Klasse2/smmfm.png)
