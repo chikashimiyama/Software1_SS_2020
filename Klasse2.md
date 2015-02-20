@@ -44,4 +44,4 @@
 
 ## HA
 
-Programmieren Sie ein Waveshping Polyphonic Synthesizer
+Programmieren Sie einen Waveshping-Polyphonic Synthesizer

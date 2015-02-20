@@ -1,6 +1,6 @@
 # Klasse6
 
-### omnimax
+### Compressor
 ![](Klasse6/1.png)
 ---
 ![](Klasse6/2.png)
