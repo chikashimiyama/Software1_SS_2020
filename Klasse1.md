@@ -2,6 +2,14 @@
 
 ## MIDI Keyboard
 
+![](Klasse1/midi1.png)
+
+![](Klasse1/midi2.png)
+
+![](Klasse1/midi3.png)
+
+![](Klasse1/midi4.png)
+
 
 ## Waveformsynthese
 ---
