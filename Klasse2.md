@@ -1,15 +1,5 @@
 # Klasse2
 
-## Polyphonischer Synthesizer
-
-
-
-
-
-
-
-
-
 ## Modulationsynthese
 
 ### Ring Modulation

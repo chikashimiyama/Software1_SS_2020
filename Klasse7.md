@@ -3,16 +3,17 @@
 ### Optimisierung
 
 ### mute~
-
+---
+![](Klasse7/1.png)
+---
+![](Klasse7/2.png)
+---
 
 ### poly~
 
 
 
-![](Klasse7/1.png)
----
-![](Klasse7/2.png)
----
+
 ![](Klasse7/3.png)
 ---
 ![](Klasse7/2.png)

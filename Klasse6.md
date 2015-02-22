@@ -1,20 +1,28 @@
 # Klasse6
 
-### Compressor
-![](Klasse6/1.png)
+### Idee von Limiter
+![](Klasse6/limiter.png)
 ---
-![](Klasse6/2.png)
+### omx.peaklimt~
+![](Klasse6/omx1.png)
 ---
-![](Klasse6/3.png)
+### Attack und Release
+![](Klasse6/limiter_ar.png)
 ---
-![](Klasse6/2.png)
+### Omni Max Compressor
+![](Klasse6/omx2.png)
 ---
-![](Klasse6/5.png)
+### AGP
+![](Klasse6/omx3.png)
 ---
-![](Klasse6/6.png)
+### Idee von Gate
+![](Klasse6/gate.png)
 ---
-![](Klasse6/7.png)
+### Ungate
+![](Klasse6/ungate.png)
 ---
-![](Klasse6/8.png)
+###  Expansion mit Omx
+![](Klasse6/omn4.png)
 ---
-![](Klasse6/9.png)
+### Decking - Sidechain
+![](Klasse6/omx5.png)
