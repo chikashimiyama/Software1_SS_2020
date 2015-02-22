@@ -2,20 +2,26 @@
 
 # pattrstorage
 
-![](Klasse8/1.png)
+### pattr
+![](Klasse8/pattr1.png)
 ---
-![](Klasse8/2.png)
+### bindto message
+![](Klasse8/pattr2.png)
 ---
-![](Klasse8/3.png)
+### slider als ein Target von bindto
+![](Klasse8/pattr3.png)
 ---
-![](Klasse8/2.png)
+### autopattr und pattrstorage
+![](Klasse8/pattr4.png)
 ---
-![](Klasse8/5.png)
+### preset funktion von pattrstorage
+![](Klasse8/pattr5.png)
 ---
-![](Klasse8/6.png)
+### interpolation mit pattrstorage
+![](Klasse8/pattr6.png)
 ---
-![](Klasse8/7.png)
+### Pattr und Subpatch
+![](Klasse8/pattr7.png)
 ---
-![](Klasse8/8.png)
----
-![](Klasse8/9.png)
+### Musikalische Anwendung
+![](Klasse8/pattr8.png) 

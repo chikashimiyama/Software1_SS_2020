@@ -21,6 +21,7 @@
 
 ![](Klasse4/Phase_distortion3.png)
 
+![](Klasse4/Phase_distortion4.png)
 
 ## Waveshaping-Synthese
 
