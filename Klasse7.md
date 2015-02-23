@@ -1,29 +1,25 @@
 # Klasse7
 
-### Optimisierung
+### Polyphonie in Max
 
-### mute~
+![](Klasse7/synth1.png)
 ---
-![](Klasse7/1.png)
+![](Klasse7/main1.png)
 ---
-![](Klasse7/2.png)
+![](Klasse7/synth2.png)
 ---
-
-### poly~
-
-
-
-
-![](Klasse7/3.png)
+![](Klasse7/main2.png)
 ---
-![](Klasse7/2.png)
+![](Klasse7/synth3.png)
 ---
-![](Klasse7/5.png)
+![](Klasse7/main3.png)
 ---
-![](Klasse7/6.png)
+![](Klasse7/synth4.png)
 ---
-![](Klasse7/7.png)
+![](Klasse7/main4.png)
 ---
-![](Klasse7/8.png)
+![](Klasse7/adsr.png)
 ---
-![](Klasse7/9.png)
+![](Klasse7/synth5.png)
+---
+![](Klasse7/main5.png)
