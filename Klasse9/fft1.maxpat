@@ -29,6 +29,20 @@
 		"tags" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-7",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 58.25, 28.0, 150.0, 20.0 ],
+					"text" : "Zeitbereich"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-4",
 					"margins" : [ 1.0, 0.0, 1.0, 0.0 ],
 					"maxclass" : "plot~",

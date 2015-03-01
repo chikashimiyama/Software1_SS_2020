@@ -1,20 +1,25 @@
 # Klasse9
 
 ### FFT1
-![](Klasse9/1.png)
+![](Klasse9/fft1.png)
 ---
-![](Klasse9/2.png)
+### Core1
+![](Klasse9/core1.png)
 ---
-![](Klasse9/3.png)
+### FFT2
+![](Klasse9/fft2.png)
 ---
-![](Klasse9/2.png)
+### Core2
+![](Klasse9/core2.png)
 ---
-![](Klasse9/5.png)
+### FFT3
+![](Klasse9/fft3.png)
 ---
-![](Klasse9/6.png)
+### Core3
+![](Klasse9/core3.png)
 ---
-![](Klasse9/7.png)
+### Graphische EQ
+![](Klasse9/graphic_eq.png)
 ---
-![](Klasse9/8.png)
----
-![](Klasse9/9.png)
+### EQ Core
+![](Klasse9/eqcore.png)

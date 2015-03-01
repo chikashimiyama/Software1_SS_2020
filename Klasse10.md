@@ -1,21 +1,23 @@
 # Klasse10
 
-### FFT2
+### Spectral Freeze
+![](Klasse10/spectral_xs_freeze.png)
+---
+![](Klasse10/spectral_xs_freeze_core.png)
+---
 
-![](Klasse10/1.png)
+### Cross Synthesis
+![](Klasse10/cross_synthesis.png)
 ---
-![](Klasse10/2.png)
+![](Klasse10/cross_synthesis_core.png)
 ---
-![](Klasse10/3.png)
+### Spectral Delay
+![](Klasse10/spectral_delay.png)
 ---
-![](Klasse10/2.png)
+![](Klasse10/spectral_delay_core.png)
 ---
-![](Klasse10/5.png)
+### Spectral Reverb
+![](Klasse10/spectral_vectoral.png)
 ---
-![](Klasse10/6.png)
+![](Klasse10/spectral_vectoral_core.png)
 ---
-![](Klasse10/7.png)
----
-![](Klasse10/8.png)
----
-![](Klasse10/9.png)

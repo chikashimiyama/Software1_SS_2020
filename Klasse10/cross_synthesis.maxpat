@@ -62,8 +62,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 52.0, 13.0, 150.0, 20.0 ],
-					"text" : "Graphic EQ"
+					"patching_rect" : [ 52.0, 13.0, 150.0, 33.0 ],
+					"text" : "Cross_synthesis\n"
 				}
 
 			}
