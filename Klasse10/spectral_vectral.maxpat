@@ -90,8 +90,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 89.25, 122.0, 158.0, 20.0 ],
-					"text" : "pfft~ spectral_vectoral_core"
+					"patching_rect" : [ 89.25, 122.0, 182.0, 20.0 ],
+					"text" : "pfft~ spectral_vectoral_core 512"
 				}
 
 			}

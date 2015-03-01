@@ -62,7 +62,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 52.0, 13.0, 150.0, 33.0 ],
+					"patching_rect" : [ 52.0, 13.0, 150.0, 20.0 ],
 					"text" : "Cross_synthesis\n"
 				}
 
@@ -153,8 +153,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 94.25, 184.0, 153.0, 20.0 ],
-					"text" : "pfft~ cross_synthesis_core"
+					"patching_rect" : [ 94.25, 184.0, 176.0, 20.0 ],
+					"text" : "pfft~ cross_synthesis_core 512"
 				}
 
 			}
