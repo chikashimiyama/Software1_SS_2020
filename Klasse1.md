@@ -48,7 +48,7 @@ bis  Montag 20. April.
 - Programmeiren Sie ein Patch, das die folgende Melodie mit Waveformsynthese spielt.
 - Die melodie muss nach dem Öffnen des Patches *AUTOMATISCH* gespielt werden.
 
-![](Klasse1/Melodie.png)
+![](Klasse1/melodie.png)
 
 - Hinweis
 	- iTable oder detonate, loadbang oder loadmess
