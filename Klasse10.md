@@ -17,7 +17,7 @@
 ![](Klasse10/spectral_delay_core.png)
 ---
 ### Spectral Reverb
-![](Klasse10/spectral_vectoral.png)
+![](Klasse10/spectral_vectral.png)
 ---
-![](Klasse10/spectral_vectoral_core.png)
+![](Klasse10/spectral_vectral_core.png)
 ---

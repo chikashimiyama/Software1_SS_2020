@@ -41,3 +41,21 @@
 ![](Klasse1/subtractiveLFO.png)
 ---
 ![](Klasse1/subtractive_Env.png)
+
+### HA 
+
+bis  Montag 20. April.
+- Programmeiren Sie ein Patch, das die folgende Melodie mit Waveformsynthese spielt.
+- Die melodie muss nach dem Öffnen des Patches *AUTOMATISCH* gespielt werden.
+
+![](Klasse1/Melodie.png)
+
+- Hinweis
+	- iTable oder detonate, loadbang oder loadmess
+	- ezdac~ akzeptiert 1 oder 0
+
+
+
+
+
+
