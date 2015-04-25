@@ -29,4 +29,6 @@
 
 
 # HA
-Mit einem Granular-Synthesizer strecken Sie die folgende Klangdatei (10 mal länger als das Original) ohne Tonhöheänderung und nehmen Sie das Ergebnis mit dem sfrecord~.
+Programmieren Sie ein patch, das mit Granular-Technik eine eingegebene Klangdatei ohne Tonhöheänderung 5 mal länger als das Original spielt. Der gestreckte Klang muss Klick-frei sein.
+
+[Klangdatei](Klasse3/sample.zip)
