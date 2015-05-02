@@ -14,6 +14,7 @@
 ---
 ![](Klasse4/gra5.png)
 ---
+![](Klasse4/gra6.png)
 
 
 ## Weitere Anwendung von Festerfunktion
@@ -33,3 +34,6 @@
 ---
 ![](Klasse4/pitchshifter6.png)
 
+# HA
+
+Mit Granular-technik komponieren Sie ein Stück (10 - 20 Sekunden).
