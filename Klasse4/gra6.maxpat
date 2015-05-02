@@ -94,7 +94,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
 					"patching_rect" : [ 684.25, 373.0, 56.0, 20.0 ],
-					"sig" : 1.0
+					"sig" : 5.76
 				}
 
 			}
@@ -108,7 +108,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 339.5, 413.0, 32.5, 20.0 ],
-					"presentation_rect" : [ 336.5, 410.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -137,7 +136,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 157.0, 93.0, 150.0, 20.0 ],
-					"text" : "gra + random"
+					"text" : "granularity"
 				}
 
 			}
@@ -151,7 +150,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 111.0, 308.0, 32.5, 20.0 ],
-					"presentation_rect" : [ 60.5, 128.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -167,8 +165,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
 					"patching_rect" : [ 98.25, 184.0, 56.0, 20.0 ],
-					"presentation_rect" : [ 231.25, 87.0, 0.0, 0.0 ],
-					"sig" : 0.0
+					"sig" : 2.5
 				}
 
 			}
@@ -182,7 +179,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 51.0, 225.0, 32.5, 20.0 ],
-					"presentation_rect" : [ 184.0, 128.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -197,7 +193,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 40.0, 184.0, 46.0, 20.0 ],
-					"presentation_rect" : [ 173.0, 87.0, 0.0, 0.0 ],
 					"text" : "noise~"
 				}
 
@@ -227,8 +222,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
 					"patching_rect" : [ 496.25, 137.0, 56.0, 20.0 ],
-					"presentation_rect" : [ 457.5, 153.0, 0.0, 0.0 ],
-					"sig" : 5.0
+					"sig" : 9.0
 				}
 
 			}
@@ -285,7 +279,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
 					"patching_rect" : [ 111.0, 244.0, 56.0, 20.0 ],
-					"sig" : 98.599998
+					"sig" : 50.0
 				}
 
 			}
@@ -314,7 +308,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
 					"patching_rect" : [ 325.5, 108.0, 56.0, 20.0 ],
-					"sig" : 90.0
+					"sig" : 260.0
 				}
 
 			}
