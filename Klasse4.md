@@ -4,17 +4,17 @@
 ## Anwendung von Granularsynthese
 
 ---
-![](Klasse5/gra1.png)
+![](Klasse4/gra1.png)
 ---
-![](Klasse5/gra2.png)
+![](Klasse4/gra2.png)
 ---
-![](Klasse5/gra3.png)
+![](Klasse4/gra3.png)
 ---
-![](Klasse5/gra4.png)
+![](Klasse4/gra4.png)
 ---
-![](Klasse5/gra5.png)
+![](Klasse4/gra5.png)
 ---
-![](Klasse5/gra6.png)
+![](Klasse4/gra6.png)
 
 
 ## Weitere Anwendung von Festerfunktion
@@ -22,15 +22,15 @@
 ## Pitchshifter
 
 ---
-![](Klasse5/pitchshifter1.png)
+![](Klasse4/pitchshifter1.png)
 ---
-![](Klasse5/pitchshifter2.png)
+![](Klasse4/pitchshifter2.png)
 ---
-![](Klasse5/pitchshifter3.png)
+![](Klasse4/pitchshifter3.png)
 ---
-![](Klasse5/pitchshifter2.png)
+![](Klasse4/pitchshifter2.png)
 ---
-![](Klasse5/pitchshifter5.png)
+![](Klasse4/pitchshifter5.png)
 ---
-![](Klasse5/pitchshifter6.png)
+![](Klasse4/pitchshifter6.png)
 
