@@ -14,7 +14,6 @@
 ---
 ![](Klasse4/gra5.png)
 ---
-![](Klasse4/gra6.png)
 
 
 ## Weitere Anwendung von Festerfunktion
