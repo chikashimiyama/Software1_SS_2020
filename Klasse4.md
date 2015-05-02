@@ -16,7 +16,7 @@
 ---
 ![](Klasse4/gra6.png)
 
-
+[Fensterfunktionen](http://de.wikipedia.org/wiki/Fensterfunktion)
 ## Weitere Anwendung von Festerfunktion
 
 ## Pitchshifter
