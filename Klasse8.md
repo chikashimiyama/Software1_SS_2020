@@ -1,27 +1,28 @@
 # Klasse8
 
-# pattrstorage
-
-### pattr
-![](Klasse8/pattr1.png)
+### Idee von Limiter
+![](Klasse8/limiter.png)
 ---
-### bindto message
-![](Klasse8/pattr2.png)
+### omx.peaklimt~
+![](Klasse8/omx1.png)
 ---
-### slider als ein Target von bindto
-![](Klasse8/pattr3.png)
+### Attack und Release
+![](Klasse8/limiter_ar.png)
 ---
-### autopattr und pattrstorage
-![](Klasse8/pattr4.png)
+### Omni Max Compressor
+![](Klasse8/omx2.png)
 ---
-### preset funktion von pattrstorage
-![](Klasse8/pattr5.png)
+### AGP
+![](Klasse8/omx3.png)
 ---
-### interpolation mit pattrstorage
-![](Klasse8/pattr6.png)
+### Idee von Gate
+![](Klasse8/gate.png)
 ---
-### Pattr und Subpatch
-![](Klasse8/pattr7.png)
+### Ungate
+![](Klasse8/ungate.png)
 ---
-### Musikalische Anwendung
-![](Klasse8/pattr8.png) 
+###  Expansion mit Omx
+![](Klasse8/omn4.png)
+---
+### Decking - Sidechain
+![](Klasse8/omx5.png)

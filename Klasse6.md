@@ -1,28 +1,27 @@
 # Klasse6
 
-### Idee von Limiter
-![](Klasse6/limiter.png)
+# pattrstorage
+
+### pattr
+![](Klasse6/pattr1.png)
 ---
-### omx.peaklimt~
-![](Klasse6/omx1.png)
+### bindto message
+![](Klasse6/pattr2.png)
 ---
-### Attack und Release
-![](Klasse6/limiter_ar.png)
+### slider als ein Target von bindto
+![](Klasse6/pattr3.png)
 ---
-### Omni Max Compressor
-![](Klasse6/omx2.png)
+### autopattr und pattrstorage
+![](Klasse6/pattr4.png)
 ---
-### AGP
-![](Klasse6/omx3.png)
+### preset funktion von pattrstorage
+![](Klasse6/pattr5.png)
 ---
-### Idee von Gate
-![](Klasse6/gate.png)
+### interpolation mit pattrstorage
+![](Klasse6/pattr6.png)
 ---
-### Ungate
-![](Klasse6/ungate.png)
+### Pattr und Subpatch
+![](Klasse6/pattr7.png)
 ---
-###  Expansion mit Omx
-![](Klasse6/omn4.png)
----
-### Decking - Sidechain
-![](Klasse6/omx5.png)
+### Musikalische Anwendung
+![](Klasse6/pattr8.png) 
