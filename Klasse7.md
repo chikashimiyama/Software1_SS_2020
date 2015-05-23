@@ -1,43 +1,47 @@
-# Klasse5
+# Klasse7
 
 
 ## Karplus-Strong synthese
 
-![](Klasse4/Karplus_strong1.png)
+![](Klasse7/Karplus_strong1.png)
 
-![](Klasse4/Karplus_strong2.png)
+![](Klasse7/Karplus_strong2.png)
 
-![](Klasse4/Karplus_strong3.png)
+![](Klasse7/Karplus_strong3.png)
 
-![](Klasse4/Karplus_strong4.png)
+![](Klasse7/Karplus_strong4.png)
 
-![](Klasse4/Karplus_strong5.png)
+![](Klasse7/Karplus_strong5.png)
 
-## Phase-Distortion-Synthese
+## Distortion-Synthese
+### Phase-Distortion-Synthese
 
-![](Klasse4/Phase_distortion1.png)
+![](Klasse7/Phase_distortion1.png)
 
-![](Klasse4/Phase_distortion2.png)
+![](Klasse7/Phase_distortion2.png)
 
-![](Klasse4/Phase_distortion3.png)
+![](Klasse7/Phase_distortion3.png)
 
-![](Klasse4/Phase_distortion4.png)
+![](Klasse7/Phase_distortion4.png)
 
-## Waveshaping-Synthese
+### Waveshaping-Synthese
 
-
-
-## HA.
-
-1. Programmieren Sie ein Patch, das die folgende Melodie mit Karplus-Strong spielt.
-
+![](Klasse7/buffer_objects.png)
+---
+![](Klasse7/waveshaping1.png)
+---
+![](Klasse7/waveshaping2.png)
+---
+![](Klasse7/waveshaping3.png)
+---
+![](Klasse7/waveshaping4.png)
 
 ### Vocoder
 ---
-![](Klasse5/vocoder1.png)
+![](Klasse7/vocoder1.png)
 ---
-![](Klasse5/vocoder2.png)
+![](Klasse7/vocoder2.png)
 ---
-![](Klasse5/vocoder3.png)
+![](Klasse7/vocoder3.png)
 ---
-![](Klasse5/vocoder4.png)
+![](Klasse7/vocoder4.png)

@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 25.0, 70.0, 427.0, 353.0 ],
+		"rect" : [ 28.0, 70.0, 427.0, 353.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -78,13 +78,13 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 89.0, 232.0, 129.0, 20.0 ],
-					"restore" : [ 69.0 ],
+					"restore" : [ 0.224 ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0
 					}
 ,
 					"text" : "pattr @bindto chikashi",
-					"varname" : "u011001728"
+					"varname" : "u545000017"
 				}
 
 			}
