@@ -45,3 +45,11 @@
 ![](Klasse7/vocoder3.png)
 ---
 ![](Klasse7/vocoder4.png)
+
+
+## HA
+
+Programmieren Sie ein Patch, das die untenstehende Klangdatei und einem Pink-Rauschen mit einem Vocoder fusioniert.
+
+[Soundfile](Klasse7/speech.wav.zip)
+
