@@ -18,11 +18,11 @@
 
 ![](Klasse7/Phase_distortion1.png)
 
-![](Klasse7/Phase_distortion2.png)
+![](Klasse7/phase_distortion2.png)
 
-![](Klasse7/Phase_distortion3.png)
+![](Klasse7/phase_distortion3.png)
 
-![](Klasse7/Phase_distortion4.png)
+![](Klasse7/phase_distortion4.png)
 
 ### Waveshaping-Synthese
 
