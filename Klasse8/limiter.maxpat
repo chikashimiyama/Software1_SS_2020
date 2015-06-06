@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 337.0, 290.0, 786.0, 710.0 ],
+		"rect" : [ -320.0, 836.0, 786.0, 710.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,7 +37,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 334.0, 158.0, 178.0, 20.0 ],
-					"presentation_rect" : [ 337.0, 156.0, 0.0, 0.0 ],
 					"text" : "<--- für \"Lautstärke\"-erkennung"
 				}
 
@@ -52,7 +51,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 196.5, 287.0, 102.0, 20.0 ],
-					"presentation_rect" : [ 137.0, 274.0, 0.0, 0.0 ],
 					"text" : "Multiplikand --->"
 				}
 
@@ -67,7 +65,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 431.0, 344.0, 150.0, 20.0 ],
-					"presentation_rect" : [ 417.0, 347.0, 0.0, 0.0 ],
 					"text" : "1 oder 2"
 				}
 
@@ -83,7 +80,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 477.0, 287.0, 150.0, 47.0 ],
-					"presentation_rect" : [ 477.0, 289.0, 0.0, 0.0 ],
 					"text" : "ist das Input die Schwelle unterschreitet ?\nja = 1 nein 0"
 				}
 
@@ -98,7 +94,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 477.0, 256.0, 150.0, 20.0 ],
-					"presentation_rect" : [ 477.0, 256.0, 0.0, 0.0 ],
 					"text" : "<--- \"Schwelle\""
 				}
 
@@ -127,7 +122,6 @@
 					"numpoints" : 441,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 273.0, 435.0, 214.0, 135.0 ],
-					"presentation_rect" : [ 483.0, 36.0, 0.0, 0.0 ],
 					"subplots" : [ 						{
 							"color" : [ 0.4, 0.4, 0.75, 1.0 ],
 							"thickness" : 1.2,
@@ -239,7 +233,6 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
 					"patching_rect" : [ 324.0, 287.0, 56.0, 20.0 ],
-					"presentation_rect" : [ 309.0, 327.0, 0.0, 0.0 ],
 					"sig" : 0.0
 				}
 
@@ -320,8 +313,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 212.0, 158.0, 114.0, 20.0 ],
-					"text" : "average~ 1000 rms"
+					"patching_rect" : [ 212.0, 158.0, 108.0, 20.0 ],
+					"text" : "average~ 512 rms"
 				}
 
 			}
@@ -334,7 +327,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 256.0, 97.0, 150.0, 20.0 ],
+					"patching_rect" : [ 254.0, 48.0, 150.0, 20.0 ],
 					"text" : "Amplitude"
 				}
 
@@ -349,7 +342,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 206.0, 97.0, 50.0, 20.0 ]
+					"patching_rect" : [ 204.0, 48.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -362,7 +355,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 138.0, 128.0, 32.5, 20.0 ],
+					"patching_rect" : [ 136.0, 79.0, 32.5, 20.0 ],
 					"text" : "*~ 1"
 				}
 
@@ -376,7 +369,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 138.0, 62.0, 69.0, 20.0 ],
+					"patching_rect" : [ 136.0, 13.0, 69.0, 20.0 ],
 					"text" : "cycle~ 440"
 				}
 
@@ -415,25 +408,6 @@
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-17", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-2", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-29", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"midpoints" : [ 51.0, 308.0, 76.0, 599.0, 253.0, 558.0 ],
-					"source" : [ "obj-2", 0 ]
 				}
 
 			}

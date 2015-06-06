@@ -1,28 +1,29 @@
 # Klasse8
 
-### Idee von Limiter
-![](Klasse8/limiter.png)
+### RMS
+![](Klasse8/step1.png)
 ---
-### omx.peaklimt~
-![](Klasse8/omx1.png)
+### Schwelle
+![](Klasse8/step2.png)
 ---
-### Attack und Release
-![](Klasse8/limiter_ar.png)
+### selector~
+![](Klasse8/step3.png)
 ---
-### Omni Max Compressor
-![](Klasse8/omx2.png)
+### Compressor
+![](Klasse8/step4.png)
 ---
-### AGP
-![](Klasse8/omx3.png)
+### Make Up und Bypass
+![](Klasse8/step5.png)
 ---
-### Idee von Gate
-![](Klasse8/gate.png)
+### attack und release
+![](Klasse8/step6.png)
 ---
-### Ungate
-![](Klasse8/ungate.png)
+### look ahead
+![](Klasse8/step7.png)
 ---
-###  Expansion mit Omx
-![](Klasse8/omn4.png)
----
-### Decking - Sidechain
-![](Klasse8/omx5.png)
+###  Expander
+![](Klasse8/expander.png)
+
+### HA
+
+Programmieren Sie einen Upward Kompressor

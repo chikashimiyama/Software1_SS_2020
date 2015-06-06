@@ -49,7 +49,7 @@
 
 ## HA
 
-Programmieren Sie ein Patch, das die untenstehende Klangdatei und einem Pink-Rauschen mit einem Vocoder fusioniert.
+Programmieren Sie ein Patch, das die untenstehende Klangdatei und einem Pink-Rauschen mit einem Vocoder synthetisieren.
 
 [Soundfile](Klasse7/spoken.wav.zip)
 
