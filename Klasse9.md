@@ -5,9 +5,7 @@
 ![](Klasse9/Fourier_portlait.jpeg)
 
 ### FFT  (First Fourier Transformation)
-
 ![](Klasse9/ft_spectrum.png)
-
 
 ### Spektrale Verarbeitung
 ![](Klasse9/spectral_synthesis.png)
@@ -43,10 +41,18 @@
 ---
 
 ### Cross Synthesis
+[Samples](Klasse9/samples.zip)
+
 ![](Klasse9/cross_synthesis.png)
 ---
+#### Amplitude Multiplication
+
 ![](Klasse9/cross_synthesis_core.png)
 ---
+
+#### Complex Multiplication
+![](Klasse9/complex_core.png)
+
 ### Spectral Delay
 ![](Klasse9/spectral_delay.png)
 ---
